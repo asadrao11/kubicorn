@@ -14,6 +14,7 @@ Eric Hole <eric.hole@gmail.com>
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> omg this is a huge refactor for the API
@@ -50,6 +51,8 @@ fabriziopandini <fabrizio.pandini@gmail.com>
 =======
 >>>>>>> omfg its compiling
 >>>>>>> omfg its compiling
+=======
+>>>>>>> working on deps
 Gar Morley <garmorley@gmail.com>
 Igor Vuk <parcijala@gmail.com>
 Jacopo Nardiello <jacopo@sighup.io>
@@ -73,6 +76,7 @@ Martin Etmajer <martin@etmajer.com>
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Michael Hausenblas <michael.hausenblas@gmail.com>
 Michael Zamot <michael@zamot.io>
 =======
@@ -117,9 +121,10 @@ Michael Zamot <michael@zamot.io>
 name <email@email.com>
 >>>>>>> dep update
 =======
+=======
+>>>>>>> working on deps
 Michael Hausenblas <michael.hausenblas@gmail.com>
 Michael Zamot <michael@zamot.io>
->>>>>>> omfg its compiling
 Nolan Brubaker <nolan@heptio.com>
 Nyah Check <check.nyah@gmail.com>
 Paul Czarkowski <username.taken@gmail.com>

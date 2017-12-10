@@ -7,8 +7,10 @@ Bo Ingram <boingram6@gmail.com>
 Brad Pinter <brad.pinter@gmail.com>
 Carolyn Van Slyck <me@carolynvanslyck.com>
 Darron Froese <dfroese@salesforce.com>
+ellenkorbes <ellenkorbes@gmail.com>
 Ellen Körbes <ellenkorbes@gmail.com>
 Eric Hole <eric.hole@gmail.com>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -53,6 +55,9 @@ fabriziopandini <fabrizio.pandini@gmail.com>
 >>>>>>> omfg its compiling
 =======
 >>>>>>> working on deps
+=======
+fabriziopandini <fabrizio.pandini@gmail.com>
+>>>>>>> moar deps
 Gar Morley <garmorley@gmail.com>
 Igor Vuk <parcijala@gmail.com>
 Jacopo Nardiello <jacopo@sighup.io>
@@ -77,6 +82,7 @@ Martin Etmajer <martin@etmajer.com>
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Michael Hausenblas <michael.hausenblas@gmail.com>
 Michael Zamot <michael@zamot.io>
 =======
@@ -123,8 +129,13 @@ name <email@email.com>
 =======
 =======
 >>>>>>> working on deps
+=======
+matyix <janos.matyas@gmail.com>
+matyix <lalyos@yahoo.com>
+>>>>>>> moar deps
 Michael Hausenblas <michael.hausenblas@gmail.com>
 Michael Zamot <michael@zamot.io>
+name <email@email.com>
 Nolan Brubaker <nolan@heptio.com>
 Nyah Check <check.nyah@gmail.com>
 Paul Czarkowski <username.taken@gmail.com>
@@ -135,6 +146,7 @@ Robert Bailey <robertbailey@google.com>
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 S.Çağlar Onur <caglar@digitalocean.com>
 =======
 >>>>>>> #kubecon hacking on #kubicorn
@@ -142,14 +154,11 @@ S.Çağlar Onur <caglar@digitalocean.com>
 robjloranger <robjloranger@protonmail.com>
 =======
 >>>>>>> omfg its compiling
+=======
+robjloranger <robjloranger@protonmail.com>
+>>>>>>> moar deps
 S.Çağlar Onur <caglar@digitalocean.com>
 >>>>>>> dep update
 Steven Klassen <sklassen@gmail.com>
 Ted Wood <ted@xy0.org>
 William Stewart <zoidbergwill@gmail.com>
-ellenkorbes <ellenkorbes@gmail.com>
-fabriziopandini <fabrizio.pandini@gmail.com>
-matyix <janos.matyas@gmail.com>
-matyix <lalyos@yahoo.com>
-name <email@email.com>
-robjloranger <robjloranger@protonmail.com>
